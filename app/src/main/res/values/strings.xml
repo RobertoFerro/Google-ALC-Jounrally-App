@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="get_started">GET STARTED</string>
+    <string name="title_activity_list_diary_entries">ListDiaryEntries</string>
+    <string name="please_enter_a_title_for_your_post">Please enter a title for your post</string>
+    <string name="please_type_a_here">Please type a here</string>
+    <string name="title_activity_diary_entry">DiaryEntryActivity</string>
+    <string name="logout">Logout</string>
+    <string name="list_diary_tool_bar_title">Your Diary Posts</string>
+    <string name="No_Diary_Entries">No Diary Entries</string>
+    <string name="your_diary_post">Your Diary Post</string>
+</resources>
